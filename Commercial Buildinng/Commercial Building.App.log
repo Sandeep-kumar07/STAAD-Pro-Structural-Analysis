@@ -1,0 +1,43 @@
+[10/06/2026 16:35:08][INFO]:	Reading UID database.
+[10/06/2026 16:35:10][INFO]:	Start loading STAAD model.
+[10/06/2026 16:35:10][INFO]:	Reading model file.
+[10/06/2026 16:35:10][INFO]:	Reading model file is complete.
+[10/06/2026 16:35:10][INFO]:	Processing support.
+[10/06/2026 16:35:10][INFO]:	Processing springs.
+[10/06/2026 16:35:10][INFO]:	Processing properties.
+[10/06/2026 16:35:10][INFO]:	Processing physical properties.
+[10/06/2026 16:35:10][INFO]:	Processing constants.
+[10/06/2026 16:35:10][INFO]:	Processing BETA constants.
+[10/06/2026 16:35:10][INFO]:	Processing hidden analytical member loads.
+[10/06/2026 16:35:10][INFO]:	Processing command list for member release.
+[10/06/2026 16:35:10][INFO]:	Processing command list for member offset.
+[10/06/2026 16:35:10][INFO]:	Processing command list for member specs (cracked).
+[10/06/2026 16:35:10][INFO]:	Processing command list for member specs (axial).
+[10/06/2026 16:35:10][INFO]:	Processing command list for element release.
+[10/06/2026 16:35:11][INFO]:	Processing command list for element offset.
+[10/06/2026 16:35:11][INFO]:	Processing command list for element plate stress directive.
+[10/06/2026 16:35:11][INFO]:	Processing parameter for Chinese wind load case.
+[10/06/2026 16:35:11][INFO]:	End Processing command list.
+[10/06/2026 16:35:11][INFO]:	End loading STAAD model.
+[10/06/2026 16:35:11][INFO]:	Start Post Analysis method
+[10/06/2026 16:35:11][INFO]:	Removed all hidden plates from surfaces
+[10/06/2026 16:35:11][INFO]:	Removed all hidden plates
+[10/06/2026 16:35:11][INFO]:	Removed all hidden nodes
+[10/06/2026 16:35:11][INFO]:	Loading results from MSH file...
+[10/06/2026 16:35:11][INFO]:	Building result indices...
+[10/06/2026 16:35:11][INFO]:	Set analysis report setup data
+[10/06/2026 16:35:11][INFO]:	Starting page setup...
+[10/06/2026 16:35:11][INFO]:	Page setup completed
+[10/06/2026 16:35:11][INFO]:	Setting available workflows...
+[10/06/2026 16:35:11][INFO]:	Post analysis method ends
+[10/06/2026 16:42:09][INFO]:	Start Post Analysis method
+[10/06/2026 16:42:09][INFO]:	Removed all hidden plates from surfaces
+[10/06/2026 16:42:09][INFO]:	Removed all hidden plates
+[10/06/2026 16:42:09][INFO]:	Removed all hidden nodes
+[10/06/2026 16:42:09][INFO]:	Loading results from MSH file...
+[10/06/2026 16:42:09][INFO]:	Building result indices...
+[10/06/2026 16:42:09][INFO]:	Set analysis report setup data
+[10/06/2026 16:42:09][INFO]:	Starting page setup...
+[10/06/2026 16:42:09][INFO]:	Page setup completed
+[10/06/2026 16:42:09][INFO]:	Setting available workflows...
+[10/06/2026 16:42:09][INFO]:	Post analysis method ends
