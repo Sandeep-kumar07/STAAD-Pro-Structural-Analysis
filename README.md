@@ -5,9 +5,9 @@ Academic projects in structural modelling and analysis of buildings using STAAD.
 ## Projects
 
 ### Residential Building
-- **Description:** [e.g. G+2 residential frame, plan size, number of storeys]
-- **Loads applied:** [dead load, live load, wind/seismic if used]
-- **Supports:** [fixed/pinned]
+- **Description:** [G+2 residential frame, plan size, number of storeys]
+- **Loads applied:** [dead load, live load, wind load]
+- **Supports:** [fixed]
 - **Key results:** [max displacement, max bending moment, max shear force, with member numbers]
 
 ### Commercial Building
